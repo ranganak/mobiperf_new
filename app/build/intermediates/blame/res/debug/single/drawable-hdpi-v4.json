@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\rangk\\StudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_results_icon_unselected.png",
+        "source": "C:\\Users\\rangk\\StudioProjects\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_results_icon_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\rangk\\StudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_statusbar.png",
+        "source": "C:\\Users\\rangk\\StudioProjects\\android\\app\\src\\main\\res\\drawable-hdpi\\icon_statusbar.png"
+    },
+    {
+        "merged": "C:\\Users\\rangk\\StudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Users\\rangk\\StudioProjects\\android\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rangk\\StudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_schedules_selected.png",
+        "source": "C:\\Users\\rangk\\StudioProjects\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_schedules_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\rangk\\StudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_user_measurement_unselected.png",
+        "source": "C:\\Users\\rangk\\StudioProjects\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_user_measurement_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\rangk\\StudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_results_icon_selected.png",
+        "source": "C:\\Users\\rangk\\StudioProjects\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_results_icon_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\rangk\\StudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_user_measurement_selected.png",
+        "source": "C:\\Users\\rangk\\StudioProjects\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_user_measurement_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\rangk\\StudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tab_schedules_unselected.png",
+        "source": "C:\\Users\\rangk\\StudioProjects\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_schedules_unselected.png"
+    }
+]

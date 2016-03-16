@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:2:1-81:12
+	package
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:3:3-25
+		INJECTED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:4:3-29
+		INJECTED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:4:30-56
+		INJECTED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:5:3-65
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:5:20-62
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:6:3-69
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:6:20-66
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:7:3-72
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:7:20-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:8:3-73
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:8:20-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:9:3-79
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:9:20-76
+uses-permission#android.permission.ACCESS_COARSE_UPDATES
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:10:3-78
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:10:20-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:11:3-77
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:11:20-74
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:12:3-74
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:12:20-71
+uses-permission#android.permission.BATTERY_STATS
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:13:3-70
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:13:20-67
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:14:3-66
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:14:20-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:15:3-78
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:15:20-76
+uses-sdk
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:16:3-70
+	android:targetSdkVersion
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:16:13-41
+		INJECTED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:16:42-67
+		INJECTED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:18:3-80:17
+	android:label
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:21:5-37
+	android:debuggable
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:19:5-30
+	android:icon
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:20:5-34
+	android:theme
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:22:5-47
+activity#com.mobiperf.SpeedometerApp
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:23:5-33:16
+	android:label
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:25:7-39
+	android:launchMode
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:26:7-38
+	android:theme
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:27:7-60
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:24:7-37
+intent-filter#android.intent.category.DEFAULT+com.mobiperf.SpeedometerApp
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:28:7-31:23
+action#com.mobiperf.SpeedometerApp
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:29:11-64
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:29:19-61
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:30:11-70
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:30:21-67
+activity#com.mobiperf.SplashScreenActivity
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:34:5-43:16
+	android:label
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:36:7-39
+	android:launchMode
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:37:7-38
+	android:theme
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:38:7-60
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:35:7-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:39:7-42:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:40:9-61
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:40:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:41:9-69
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:41:19-66
+activity#com.mobiperf.SystemConsoleActivity
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:44:5-48:16
+	android:launchMode
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:46:7-38
+	android:theme
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:47:7-60
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:45:7-44
+activity#com.mobiperf.ResultsConsoleActivity
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:49:5-53:16
+	android:launchMode
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:51:7-38
+	android:theme
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:52:7-60
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:50:7-45
+activity#com.mobiperf.MeasurementCreationActivity
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:54:5-58:16
+	android:launchMode
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:56:7-38
+	android:theme
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:57:7-60
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:55:7-50
+activity#com.mobiperf.SpeedometerPreferenceActivity
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:59:5-63:16
+	android:launchMode
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:61:7-38
+	android:theme
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:62:7-60
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:60:7-52
+activity#com.mobiperf.MeasurementScheduleConsoleActivity
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:64:5-68:16
+	android:launchMode
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:66:7-38
+	android:theme
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:67:7-60
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:65:7-57
+service#com.mobiperf.MeasurementScheduler
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:69:5-72:15
+	android:exported
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:71:7-31
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:70:7-43
+receiver#com.mobiperf.WatchdogBootReceiver
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:73:5-78:16
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:73:15-51
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.HOME
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:74:7-77:23
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:75:9-71
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:75:17-68
+category#android.intent.category.HOME
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:76:9-65
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:76:19-62
+activity#com.mobiperf.About
+ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:79:5-48
+	android:name
+		ADDED from C:\Users\rangk\StudioProjects\android\app\src\main\AndroidManifest.xml:79:15-36

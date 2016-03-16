@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\rangk\\StudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashscreen.jpg",
+        "source": "C:\\Users\\rangk\\StudioProjects\\android\\app\\src\\main\\res\\drawable\\splashscreen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rangk\\StudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_user_measurement.xml",
+        "source": "C:\\Users\\rangk\\StudioProjects\\android\\app\\src\\main\\res\\drawable\\ic_tab_user_measurement.xml"
+    },
+    {
+        "merged": "C:\\Users\\rangk\\StudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\rangk\\StudioProjects\\android\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\rangk\\StudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_results_icon.xml",
+        "source": "C:\\Users\\rangk\\StudioProjects\\android\\app\\src\\main\\res\\drawable\\ic_tab_results_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\rangk\\StudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_tab_schedules.xml",
+        "source": "C:\\Users\\rangk\\StudioProjects\\android\\app\\src\\main\\res\\drawable\\ic_tab_schedules.xml"
+    },
+    {
+        "merged": "C:\\Users\\rangk\\StudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_statusbar.png",
+        "source": "C:\\Users\\rangk\\StudioProjects\\android\\app\\src\\main\\res\\drawable\\icon_statusbar.png"
+    },
+    {
+        "merged": "C:\\Users\\rangk\\StudioProjects\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whiteline.png",
+        "source": "C:\\Users\\rangk\\StudioProjects\\android\\app\\src\\main\\res\\drawable\\whiteline.png"
+    }
+]
